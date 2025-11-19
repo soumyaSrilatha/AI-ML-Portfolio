@@ -17,3 +17,5 @@ Welcome to my AI/ML portfolio! This repository showcases my hands-on projects in
 **Notebook:** [Kaggle Link](https://www.kaggle.com/code/soumyajandhyala304/notebookab4fb1c22d/edit)  
 
 ---
+### 1️⃣ Day 2 – Logistic Regression: Diamonds Dataset 
+**Notebook:** [Kaggle Link](https://www.kaggle.com/code/soumyajandhyala304/notebook15645ef3e1) 
